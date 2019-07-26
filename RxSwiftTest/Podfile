@@ -1,0 +1,5 @@
+target 'RxSwiftTest' do
+use_frameworks!
+pod 'RxSwift', '~> 4.2'
+pod 'RxCocoa', '~> 4.2'
+end
